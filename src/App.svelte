@@ -1,7 +1,7 @@
 <script>
 	// #component: slide (imported from a Svelte library)
 	import { slide } from "svelte/transition";
-    // #component: elasticInOut (imported from a Svelte library)
+    	// #component: elasticInOut (imported from a Svelte library)
 	import { elasticInOut } from "svelte/easing";
 
 	import Form from "./Form.svelte";
