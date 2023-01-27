@@ -2,6 +2,9 @@
 
 ---
 
+# credits
+This is a short-assignment for the Harvard CS 178: Engineering Usable Interactive Systems class. I followed a To-Do app tutorial (and refactored slightly) for Svelte from [areknawo.com](https://areknawo.com/making-a-todo-app-in-svelte/). 
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
